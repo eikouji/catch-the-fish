@@ -1,9 +1,12 @@
 .grid {
+  
   width: 606px;
   height: 606px;
   display: flex;
   flex-wrap: wrap;
   justify-content: center;
+  padding: 100px 400px 400px 100px;
+
 }
 
 .square {
@@ -15,4 +18,8 @@
 .mole {
   background-image: url('fish.JPG');
   background-size: cover;
+}
+
+.game-header {
+  align-items: center;
 }
