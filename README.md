@@ -9,12 +9,12 @@ Click on as many fish as possible to earn points.
 After 30 seconds, your score will appear.
 
 # This app uses #
-document.querySelector
-textContent
-forEach
-addEventListener
-setInterval
-classList.add
+- document.querySelector
+- textContent
+- forEach
+- addEventListener
+- setInterval
+- classList.add
 
 This project is made following a youtube video made by Ania Kubow. Thank you Ania for your well explained tutorials and videos.
 
