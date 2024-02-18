@@ -1,7 +1,7 @@
 # catch-the-fish #
-A simple Whack-a-mole game made with Javascript.
+A simple Whack-a-mole type game made with Javascript.
 
-Instead of moles, I decided to use a fish image. So, the game is now catch the fish. 
+Instead of moles, I decided to use a fish image. So, the game is now Catch the Fish. 
 
 # Rules of the Game #
 The timer will start. 
@@ -16,6 +16,6 @@ addEventListener
 setInterval
 classList.add
 
-This project is made following a youtube video made by Ania Kubow. 
+This project is made following a youtube video made by Ania Kubow. Thank you Ania for your well explained tutorials and videos.
 
 
