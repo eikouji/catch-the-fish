@@ -19,3 +19,8 @@ After 30 seconds, your score will appear.
 This project was made following a youtube video made by Ania Kubow. Thank you Ania for your well explained tutorials and videos.
 
 
+# Gif of working app #
+![catch-the-fish](https://github.com/eikouji/catch-the-fish/assets/91100425/17501d0b-2cc4-4fa4-969a-d9c217ebbc25)
+
+
+# URL of working app #
