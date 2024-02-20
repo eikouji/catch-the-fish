@@ -6,7 +6,7 @@ Instead of moles, I decided to use a fish image. So, the game is now Catch the F
 # Rules of the Game #
 The timer will start. 
 Click on as many fish as possible to earn points.
-After 30 seconds, your score will appear.
+After 60 seconds, your score will appear.
 
 # This app uses #
 - document.querySelector
