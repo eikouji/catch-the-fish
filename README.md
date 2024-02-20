@@ -1,4 +1,4 @@
-# catch-the-fish #
+# Catch the Fish #
 A simple Whack-a-mole type game made with Javascript.
 
 Instead of moles, I decided to use a fish image. So, the game is now Catch the Fish. 
