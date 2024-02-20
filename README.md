@@ -16,6 +16,6 @@ After 30 seconds, your score will appear.
 - setInterval
 - classList.add
 
-This project is made following a youtube video made by Ania Kubow. Thank you Ania for your well explained tutorials and videos.
+This project was made following a youtube video made by Ania Kubow. Thank you Ania for your well explained tutorials and videos.
 
 
