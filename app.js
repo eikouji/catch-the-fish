@@ -22,6 +22,7 @@ function randomSquare() {
   hitPosition = randomSquare.id
 }
 
+//every time a fish/mole is clicked, add to the game score//
 squares.forEach(square => {
   square.addEventListener('mousedown', () => {
     if (square.id == hitPosition) {
